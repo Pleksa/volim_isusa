@@ -6,3 +6,7 @@ JEff Jeff!?
 
   Gledaj tutorijal na JT.
   jendvatri
+
+  ## Local development
+
+  1. napisi nesto vla vla
